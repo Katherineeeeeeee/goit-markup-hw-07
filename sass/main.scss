@@ -1,12 +1,13 @@
 // utils
 @import './utils/vars';
 @import './utils/visually-hidden';
-@import './utils/card-set';
+
 
 // base
 @import './base/base';
-@import './base/container';
 @import './base/reset';
+@import './base/container';
+@import './base/card-set';
 
 
 // components
